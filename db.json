@@ -4,25 +4,29 @@
       "id": 1,
       "version": "1.1",
       "completed": false,
-	  "force":true
+	  "force":true,
+	  "URL":"https://coding.ibbsllp.com/ibbsftp/ExtensionTest/CodyDocs-v1.1.vsix"
     },
     {
       "id": 2,
       "version": "1.2",
       "completed": false,
-	  "force":false
+	  "force":false,
+	  "URL":"https://coding.ibbsllp.com/ibbsftp/ExtensionTest/CodyDocs-v1.2.vsix"
     },
     {
       "id": 3,
       "version": "1.3",
       "completed": false,
-	  "force":false
+	  "force":false,
+	  "URL":"https://coding.ibbsllp.com/ibbsftp/ExtensionTest/CodyDocs-v1.3.vsix"
     },
     {
       "id": 4,
       "version": "1.4",
       "completed": true,
-	  "force":true
+	  "force":true,
+	  "URL":"https://coding.ibbsllp.com/ibbsftp/ExtensionTest/CodyDocs-v1.4.vsix"
     }
   ]
 }
