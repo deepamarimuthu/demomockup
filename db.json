@@ -31,9 +31,16 @@
 	{
       "id": 5,
       "version": "1.5",
+      "completed": false,
+	  "force":false,
+	  "URL":"https://coding.ibbsllp.com/ibbsftp/ExtensionTest/CodyDocs-v1.5.vsix"
+    },
+	{
+      "id": 6,
+      "version": "1.6",
       "completed": true,
 	  "force":true,
-	  "URL":"https://coding.ibbsllp.com/ibbsftp/ExtensionTest/CodyDocs-v1.5.vsix"
+	  "URL":"https://coding.ibbsllp.com/ibbsftp/ExtensionTest/CodyDocs-v1.6.vsix"
     }
   ]
 }
