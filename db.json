@@ -40,7 +40,7 @@
       "version": "1.6",
       "completed": true,
 	  "force":true,
-	  "URL":"https://coding.ibbsllp.com/ibbsftp/ExtensionTest/CodyDocs-v1.6.vsix"
+	  "URL":"/blob/download/vsextensions?blob_name=CodyDocs-V16.vsix"
     }
   ]
 }
