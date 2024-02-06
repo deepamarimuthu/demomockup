@@ -52,9 +52,16 @@
 	{
       "id": 8,
       "version": "1.8",
+	  "completed": false,
+	  "force":false,
+	  "URL":"/blob/download/vsextensions?blob_name=CodyDocs-V18.vsix"
+    },
+	{
+      "id": 9,
+      "version": "1.9",
 	  "completed": true,
 	  "force":true,
-	  "URL":"/blob/download/vsextensions?blob_name=CodyDocs-V18.vsix"
+	  "URL":"/blob/download/vsextensions?blob_name=CodyDocs-V19.vsix"
     }
   ]
 }
